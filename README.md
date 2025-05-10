@@ -21,7 +21,7 @@ This project was developed as part of an AI/ML course and aims to identify medic
 ## 📂 Files Included
 
 - `MedicalplantIdentifer.ipynb` – Full Jupyter Notebook with model code and evaluation
-- `New Medicinal Plant Recognizer.pptx` – Presentation summarizing project objectives, architecture, results, and impact
+- `Medicinal Plant Recognizer.pptx` – Presentation summarizing project objectives, architecture, results, and impact
 
 ## 🧑‍🤝‍🧑 Project Team
 
